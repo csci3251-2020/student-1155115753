@@ -27,4 +27,4 @@ A | B |
 3 | 4 | 
 
 # Screenshot <h4>
-![Screenshot](milestone2.png)
+![Screenshot](milestone2.PNG)
